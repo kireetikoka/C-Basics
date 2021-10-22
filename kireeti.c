@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main ()
+void main()
 {
-	printf(" K\ni\nr\ni\nt\ni ");
+	printf("\\this is symbol called backslash");
 }
